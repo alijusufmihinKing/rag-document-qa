@@ -14,6 +14,7 @@ Architecture: RAG (Retrieval-Augmented Generation)
 
 # Example:
 Question: What happened in the Spain vs Cape Verde match?
+
 Answer: 
 
 Spain - Cape Verde Match Result
