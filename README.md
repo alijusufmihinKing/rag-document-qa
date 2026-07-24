@@ -3,7 +3,9 @@ A document assistant that answers user questions based on the document
 
 # How RAG works
 1.Break the document into small chunks
+
 2.When a question comes up, find the right chunk
+
 3.Send the question + the right chunk to Claude
 
 # Tech Stack
