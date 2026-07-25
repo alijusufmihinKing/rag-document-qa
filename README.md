@@ -9,7 +9,10 @@ A document assistant that answers user questions based on the document
 3.Send the question + the right chunk to Claude
 
 # Tech Stack
-Python, Anthropic
+Python,
+
+Anthropic
+
 Architecture: RAG (Retrieval-Augmented Generation)
 
 # Example:
